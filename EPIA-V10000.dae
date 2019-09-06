@@ -26607,9 +26607,6 @@
         </effect>
     </library_effects>
     <library_images>
-        <image id="ID1460">
-            <init_from>EPIA-V10000/CorrogateShiny.jpg</init_from>
-        </image>
     </library_images>
     <scene>
         <instance_visual_scene url="#ID2" />
